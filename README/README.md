@@ -10,6 +10,6 @@ This repository has the information related to the following project:
 (-) University of California, Berkeley
 (-) University of Colorado
 (-) University of Kansas
-- please go to the data directory for the requisite information.
+- please go to the /data directory for the requisite information.
 - it has now been established "beyond a reasonable doubt" that there indeed is a plot-hole in the Lord of the Rings involving the Great Eagles.
 
