@@ -6,6 +6,10 @@ This repository has the information related to the following project:
 - the fact that such a plot-hole exists is not widely known.
 - this repository has links to the discussions on a set of forums, which
   should go to prove that there is indeed such a plot hole.
+- discussions were held at the subreddits for the following universities:
+(*) University of California, Berkeley
+(*) University of Colorado
+(*) University of Kansas
 - please go to the data directory for the requisite information.
 
 
