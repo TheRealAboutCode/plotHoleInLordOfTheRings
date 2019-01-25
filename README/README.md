@@ -28,11 +28,13 @@ Counter-argument: That's fine. But why were envoys not sent to the Great Eagles?
 
 # Discussions
 
-(1) Discussion #1 on /r/LOTR:
+====================================================================================================
+
+(1) Discussion #1: on /r/LOTR on Jan. 24, 2019:
 
 AboutCode:=> My Great Eagles argument still seems to be going along, btw. That's the point of this entire project. I have had at least one person agree that the Great Eagles could have been utilized for the crossing of the Ford at Rivendell.
 
-wjbc :=> wjbc brings to our attention the following:
+wjbc :=> [wjbc then brings to our attention the following:]
 
 -> The Eagles are a dangerous 'machine'. I have used them sparingly, and that is the absolute limit of their credibility or usefulness. --- J.R.R. Tolkien, Letter 210.
 
@@ -40,3 +42,22 @@ AboutCode:=>
 >>$>> J.R.R. Tolkien, Letter 210.
 
 Everybody quotes this letter. My response to this is the following: "One word. Envoys."
+
+====================================================================================================
+
+(2) Discussion #2: on /r/UConn on Jan. 24, 2019:
+
+07CE says:=> he Eagles would drawn the gaze of Sauron himself had they brought the Fellowship to Mordor and it's very likely they would be killed very quickly.
+
+AboutCode:=>
+Your arguments have been already dealt with.
+
+I will respond to just the counter-arguments in the first paragraph.
+
+>>$>> The Eagles would drawn the gaze of Sauron himself 
+>>$>> had they brought the Fellowship to Mordor and it's very 
+>>$>> likely they would be killed very quickly. 
+
+I am not arguing that the Eagles should have been used to bring the Ring to Mordor. Or the Fellowship to Mordor. That's not the argument at all. The argument rests on the optimization of a two dimensional matrix.
+
+====================================================================================================
