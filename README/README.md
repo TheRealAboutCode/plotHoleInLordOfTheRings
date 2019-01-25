@@ -21,6 +21,10 @@ PlotHoleInLordOfTheRings
 
 # Counter-arguments
 
+Note that the :=> symbols have been used to separate redditors.
+
+================================================================================================
+
 (1) :=>Argument #1::=> "Dude just because a creature CAN do something, doesn't mean they're going to, particularly the Eagles, who had their own mind about things."
 
 :=> Counter-argument::=> That's fine. But why were envoys not sent to the Great Eagles? The Fellowship and their allies could have at least tried.
@@ -38,7 +42,7 @@ The proposal is to send out envoys to find out what they CAN actually do. Does t
 
 # Discussions
 
-Note that the :=> sumbols have been used to separate redditors.
+Note that the :=> symbols have been used to separate redditors.
 
 ================================================================================================
 
