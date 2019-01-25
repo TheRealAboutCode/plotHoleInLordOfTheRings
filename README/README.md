@@ -25,6 +25,16 @@ PlotHoleInLordOfTheRings
 
 Counter-argument: That's fine. But why were envoys not sent to the Great Eagles? The Fellowship and their allies could have at least tried.
 
+(2) Argument #2: [ChristopherJRTokien] on /r/lotr: "Why do you think the fact that they are the messengers of Manwe means thry should or could do what you've suggested?"
+
+Counter-argument: 
+
+>>$>> Why do you think the fact that they are the messengers 
+>>$>> of Manwe means thry should or could do what 
+>>$>> you've suggested?
+
+The proposal is to send out envoys to find out what they CAN actually do. Does that make sense?
+
 
 # Discussions
 
