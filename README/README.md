@@ -28,7 +28,7 @@ Counter-argument: That's fine. But why were envoys not sent to the Great Eagles?
 
 # Discussions
 
-====================================================================================================
+================================================================================================
 
 (1) Discussion #1: on /r/LOTR on Jan. 24, 2019:
 
@@ -43,7 +43,7 @@ AboutCode:=>
 
 Everybody quotes this letter. My response to this is the following: "One word. Envoys."
 
-====================================================================================================
+================================================================================================
 
 (2) Discussion #2: on /r/UConn on Jan. 24, 2019:
 
@@ -60,4 +60,4 @@ I will respond to just the counter-arguments in the first paragraph.
 
 I am not arguing that the Eagles should have been used to bring the Ring to Mordor. Or the Fellowship to Mordor. That's not the argument at all. The argument rests on the optimization of a two dimensional matrix.
 
-====================================================================================================
+================================================================================================
