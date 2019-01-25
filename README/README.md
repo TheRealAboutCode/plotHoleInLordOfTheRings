@@ -41,7 +41,7 @@ wjbc :=> [wjbc then brings to our attention the following:]
 AboutCode:=> 
 >>$>> J.R.R. Tolkien, Letter 210.
 
-Everybody quotes this letter. My response to this is the following: "One word. Envoys."
+Everybody quotes this letter. My response to this is the following: "One word. Envoys." For further details, see Argument #1.
 
 ================================================================================================
 
