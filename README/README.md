@@ -21,13 +21,13 @@ PlotHoleInLordOfTheRings
 
 # Counter-arguments
 
-(1) Argument #1: "Dude just because a creature CAN do something, doesn't mean they're going to, particularly the Eagles, who had their own mind about things."
+(1) :=>Argument #1::=> "Dude just because a creature CAN do something, doesn't mean they're going to, particularly the Eagles, who had their own mind about things."
 
-Counter-argument: That's fine. But why were envoys not sent to the Great Eagles? The Fellowship and their allies could have at least tried.
+:=> Counter-argument::=> That's fine. But why were envoys not sent to the Great Eagles? The Fellowship and their allies could have at least tried.
 
-(2) Argument #2: [ChristopherJRTokien] on /r/lotr: "Why do you think the fact that they are the messengers of Manwe means thry should or could do what you've suggested?"
+(2) :=>Argument #2::=> [ChristopherJRTokien] on /r/lotr: "Why do you think the fact that they are the messengers of Manwe means thry should or could do what you've suggested?"
 
-Counter-argument: 
+:=> Counter-argument::=> 
 
 >>$>> Why do you think the fact that they are the messengers 
 >>$>> of Manwe means thry should or could do what 
@@ -38,17 +38,19 @@ The proposal is to send out envoys to find out what they CAN actually do. Does t
 
 # Discussions
 
+Note that the :=> sumbols have been used to separate redditors.
+
 ================================================================================================
 
 (1) Discussion #1: on /r/LOTR on Jan. 24, 2019:
 
-AboutCode:=> My Great Eagles argument still seems to be going along, btw. That's the point of this entire project. I have had at least one person agree that the Great Eagles could have been utilized for the crossing of the Ford at Rivendell.
+:=>AboutCode:=> My Great Eagles argument still seems to be going along, btw. That's the point of this entire project. I have had at least one person agree that the Great Eagles could have been utilized for the crossing of the Ford at Rivendell.
 
-wjbc :=> [wjbc then brings to our attention the following:]
+:=>wjbc :=> [wjbc then brings to our attention the following:]
 
 -> The Eagles are a dangerous 'machine'. I have used them sparingly, and that is the absolute limit of their credibility or usefulness. --- J.R.R. Tolkien, Letter 210.
 
-AboutCode:=> 
+:=>AboutCode:=> 
 >>$>> J.R.R. Tolkien, Letter 210.
 
 Everybody quotes this letter. My response to this is the following: "One word. Envoys." For further details, see Argument #1.
@@ -57,9 +59,9 @@ Everybody quotes this letter. My response to this is the following: "One word. E
 
 (2) Discussion #2: on /r/UConn on Jan. 24, 2019:
 
-07CE says:=> he Eagles would drawn the gaze of Sauron himself had they brought the Fellowship to Mordor and it's very likely they would be killed very quickly.
+:=>07CE says:=> he Eagles would drawn the gaze of Sauron himself had they brought the Fellowship to Mordor and it's very likely they would be killed very quickly.
 
-AboutCode:=>
+:=>AboutCode:=>
 Your arguments have been already dealt with.
 
 I will respond to just the counter-arguments in the first paragraph.
