@@ -19,3 +19,10 @@ PlotHoleInLordOfTheRings
 - please go to the /data directory for the requisite information.
 - it has now been established "beyond a reasonable doubt" that there indeed is a plot-hole in the Lord of the Rings involving the Great Eagles.
 
+# Counter-arguments
+
+(1) Argument #1: "Dude just because a creature CAN do something, doesn't mean they're going to, particularly the Eagles, who had their own mind about things."
+
+Counter-argument: That's fine. But why were envoys not sent to the Great Eagles? The Fellowship and their allies could have at least tried.
+
+
